@@ -86,10 +86,18 @@ Section – A (50 Marks)
 
 
 
+For Paper I MCQ will be asked
+25 Questions x 1 Marks from Section - A  unit 1 to 4
+25 Questions x 1 Marks from Section - B unit 5 to 7
+
+For Paper II 
+From unit 1 to 4 [2 Questions x 5 Marks, 4 Questions x 10 Marks]
+From unit 5 to 7 [2 Questions x 5 Marks, 4 Questions x 10 Marks]
+
 (Paper – II) :
 
 Information Technology & Management
-Section – A (50 Marks)
+Section – A (50 Marks) 
 1. Computer Organization and Architecture
 1.1. Basic structures: General Principles of Computer Organization and Design
 1.2. Processing Unit: Instruction Format, Arithmetic and Logical Instruction, Addressing Modes and Formats
