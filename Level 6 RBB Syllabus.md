@@ -105,14 +105,14 @@ Section – A (50 Marks)
 1.4. Memory Systems: Internal Memory, Cache Memory, Direct Memory Access, External Memory
 1.5. Parallelism and Pipelining with CPU, Overlapped with CPU and I/O Operation
 
-1. Network and Communication
+2. Network and Communication
 2.1. Introduction of Computer Network, Network Architecture, LAN architecture
 2.2. Network Topologies, Network Components: Repeaters, Hub, Switch and Router, Client Server and P2P (Peer-2-Peer) model
 2.3. Basic e-mail and Internet Technology
 2.4. Application of Network Utilities, IP Addressing
 2.5. Basic Switching and Routing Techniques, Multiplexing and De-multiplexing, UDP, TCP, Flow Control
 
-1. Operating System
+3. Operating System
 3.1. Fundamentals of Operating System (OS)
 3.2. Processes and Threads: Symmetric Multiprocessing, Micro-kernels, Concurrency, Mutual Exclusion and Synchronization
 3.3. Basic Memory Management Strategies, Virtual Memory Management Techniques
