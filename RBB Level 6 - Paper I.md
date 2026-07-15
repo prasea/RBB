@@ -229,8 +229,24 @@ The evolution of banking in Nepal shows a steady transition from basic financial
 ### 2.1 Nepal Rastra Bank Act, 2058
 
 * **Establishment & Legal Status:** Establishes Nepal Rastra Bank (NRB) as an autonomous, central banking body with perpetual succession.
-* **Primary Statutory Objectives:** To maintain domestic price stability, manage the balance of payments (BOP) to support sustainable economic growth, ensure the stability and security of the financial sector, and develop a secure and efficient payment system.
-* **Functions, Duties & Powers:** Sole authority to issue currency notes and coins, formulate and implement monetary and foreign exchange policies, license and supervise banks and financial institutions (BFIs), and act as the fiscal agent and financial advisor to the Government of Nepal.
+* **Primary Statutory Objectives:** 
+  * To formulate necessary monetary and foreign exchange policies
+  * To promote stability and liquidity required in the banking and financial sector
+  * To develop a secure, healthy, and efficient system of payment
+  * To regulate, monitor and inspect banking and financial system
+  * To enhance the accessibility of banking and financial services to every citizen of Nepal
+  * To enhance public credibility
+
+* **Functions, Duties & Powers:** 
+  * To issue banknotes and coins
+  * To formulate necessary monetary and foreign exchange policies
+  * To determine the system of the foreign exchange rate.    
+  * To manage foreign exchange reserve.      
+  * To issue license to the bank and financial institutions to carry out banking and financial business
+  * To act as the banker, advisor, and financial agent of the Government of Nepal
+  * To act as the banker of the banks
+  * To manage credit creation, interest rates, and inflation
+
 * **Lender of Last Resort:** Provides emergency liquidity assistance to commercial banks facing temporary liquidity shortages to prevent systemic banking failures.
 * **Prohibitions:** NRB is strictly prohibited from engaging in commercial trade, accepting general public deposits, or providing commercial loans.
 
@@ -238,12 +254,24 @@ The evolution of banking in Nepal shows a steady transition from basic financial
 
 
 ### 2.2 Bank and Financial Institution Act (BAFIA), 2073
+**Bank and Financial Institutions Act, 2073 (BAFIA 2073)** is an umbrella law in Nepal that regulates the establishment, operation, management, and supervision of banks and financial institutions.
 
-* **Classification Framework:** Segregates financial institutions into four tiers based on function and capital requirements: Class 'A' (Commercial Banks), Class 'B' (Development Banks), Class 'C' (Finance Companies), and Class 'D' (Microfinance Institutions).
-* **Incorporation & Licensing:** Mandates that every BFI operate strictly as a registered Public Limited Company. No entity can operate banking businesses without a formal license from NRB.
-* **Corporate Governance:** Defines strict regulations for the Board of Directors (BOD) and Chief Executive Officer (CEO). Caps the term of a director and CEO at a maximum of two consecutive terms to promote institutional accountability.
-* **Insider Lending & Prohibitions:** Strictly prohibits banks from providing credit facilities to their own promoters, directors, major shareholders, or any associated family interests to mitigate conflict of interest.
-* **Capital & Reserves:** Outlines requirements for maintaining capital funds, general reserves, and liquid assets as specified by the central bank.
+**Objectives of BAFIA 2073**
+  * To regulate the establishment and operation of banks and financial institutions.
+  * To maintain financial stability and discipline in the banking sector.
+  * To protect the interests of depositors and the public.
+  * To promote a safe, transparent, and reliable banking system.
+  * To empower the central bank to supervise and regulate financial institutions effectively.
+
+**Classification Framework:** Segregates financial institutions into four tiers based on function and capital requirements: Class 'A' (Commercial Banks), Class 'B' (Development Banks), Class 'C' (Finance Companies), and Class 'D' (Microfinance Institutions).
+
+**Incorporation & Licensing:** Mandates that every BFI operate strictly as a registered Public Limited Company. No entity can operate banking businesses without a formal license from NRB.
+
+**Corporate Governance:** Defines strict regulations for the Board of Directors (BOD) and Chief Executive Officer (CEO). Caps the term of a director and CEO at a maximum of two consecutive terms to promote institutional accountability.
+
+**Insider Lending & Prohibitions:** Strictly prohibits banks from providing credit facilities to their own promoters, directors, major shareholders, or any associated family interests to mitigate conflict of interest.
+
+**Capital & Reserves:** Outlines requirements for maintaining capital funds, general reserves, and liquid assets as specified by the central bank.
 
 
 [BAFIA 2073 Major Provisions](https://www.bankinggyan.com/bafia-2073-summary-and-major-provisions/)
@@ -251,11 +279,26 @@ The evolution of banking in Nepal shows a steady transition from basic financial
 
 ### 2.3 Payment and Settlement Act, 2075
 
-* **Regulatory Authority:** Grants NRB the sole power to regulate, supervise, and license clearinghouses, electronic payment networks, and digital financial channels.
-* **Institutional Framework:** Distinguishes between Payment System Operators (PSOs—like clearinghouses and card switches) and Payment Service Providers (PSPs—like digital wallets and payment gateways).
-* **RTGS and Clearing:** Provides legal validity to the Real-Time Gross Settlement (RTGS) system, electronic fund transfers, and netting mechanisms used for high-value interbank clearances.
-* **Settlement Finality:** Establishes that once a transaction is cleared and settled through designated central payment channels, it is irrevocable and legally binding.
-* **Consumer Data Security:** Enforces strict confidentiality of electronic transaction data and mandates standard security controls to prevent financial fraud across digital transaction endpoints.
+The Payment and Settlement Act, 2075, is a law enacted by the Government of Nepal to regulate and manage payment systems and settlement systems in the country. It provides the legal framework for the operation, supervision, and regulation of electronic and digital payment services. The act mainly authorises Nepal Rastra Bank to oversee and control payment service providers and payment system operators.
+
+**Main Objectives**
+
+  * To ensure a safe, efficient, and reliable payment system in Nepal.
+  * To promote the development of electronic and digital payment services.
+  * To regulate and supervise payment system operators and payment service providers.
+  * To reduce risks related to payment and settlement transaction
+
+Chapter 3 provisioned the licensing for the payment system operator and the payment system provider. A person who wants to establish a payment system operator (PSO) or payment system provider (PSP) company must obtain approval from Nepal Rastra Bank.
+
+**Regulatory Authority:** Grants NRB the sole power to regulate, supervise, and license clearinghouses, electronic payment networks, and digital financial channels.
+
+**Institutional Framework:** Distinguishes between Payment System Operators (PSOs—like clearinghouses and card switches) and Payment Service Providers (PSPs—like digital wallets and payment gateways).
+
+**RTGS and Clearing:** Provides legal validity to the Real-Time Gross Settlement (RTGS) system, electronic fund transfers, and netting mechanisms used for high-value interbank clearances.
+
+**Settlement Finality:** Establishes that once a transaction is cleared and settled through designated central payment channels, it is irrevocable and legally binding.
+
+**Consumer Data Security:** Enforces strict confidentiality of electronic transaction data and mandates standard security controls to prevent financial fraud across digital transaction endpoints.
 
 
 [Payment and Settlement Act 2075 – Major Provisions](https://www.bankinggyan.com/payment-and-settlement-act-2075/)
@@ -263,13 +306,68 @@ The evolution of banking in Nepal shows a steady transition from basic financial
 
 ### 2.4 Money Laundering Prevention Act (AMLA), 2064
 
-* **Core Legal Objective:** To prevent and control money laundering and financing of terrorist activities, maintaining the integrity of Nepal's financial system within global frameworks (FATF/APG).
+Money laundering is not just a financial crime it is a serious threat to national security, economic stability, and governance. Recognizing this risk, Nepal has developed a structured legal framework to prevent, detect, and punish money laundering and terrorist financing activities.
+
+The Anti-Money Laundering Law in Nepal is primarily governed by the Asset (Money) Laundering Prevention Act, 2064 (2008), along with related rules, directives, and regulatory guidelines issued by authorities like Nepal Rastra Bank and the Department of Money Laundering Investigation (DMLI).
+
+**What Is Money Laundering Under Nepalese Law?**
+Under Nepalese law, money laundering refers to any act intended to conceal or disguise the illegal origin of assets derived from criminal activities and present them as legitimate.
+
+In simple terms, it involves:
+
+1. Converting illegal money into seemingly legal assets
+2. Hiding the source, ownership, or control of criminal proceeds
+3. Assisting criminals in enjoying the benefits of unlawful income
+
+Money laundering often involves crimes like corruption, tax evasion, drug trafficking, fraud, human trafficking, and terrorism financing.
+
+The Asset (Money) Laundering Prevention Act, 2064 (2008) is the primary legislation in Nepal designed to combat money laundering and terrorist financing. It criminalizes the conversion, concealment, transfer, and possession of illicitly obtained assets and mandates strict **Know Your Customer (KYC)** protocols,** Suspicious Transaction Reporting (STR)**, and regular audits for financial and non-financial institutions.
+
+
+**Core Components of the Act**
+  - Any act that disguises, converts, or transfers property derived from criminal offenses (such as corruption, extortion, or trafficking) to make it appear legitimate is punishable.
+  - Terrorism Financing: The law prohibits the direct or indirect collection or provision of funds, services, or physical assistance intended to facilitate terrorist acts or organizations.
+  - Reporting Obligations: Banks, financial institutions, insurance companies, and Designated Non-Financial Businesses and Professions (DNFBPs) like casinos and real estate agents must maintain transaction records for at least five years and report suspicious or high-threshold transactions.
+
+**Core Legal Objective:** To prevent and control money laundering and financing of terrorist activities, maintaining the integrity of Nepal's financial system within global frameworks (FATF/APG).
+
 * **Financial Information Unit (FIU):** Establishes the FIU as an independent, specialized administrative body housed within NRB to receive, analyze, and disseminate reports regarding suspicious financial transactions.
 * **Customer Due Diligence (CDD):** Mandates that commercial banks perform thorough identity verification (KYC profiling) of all account holders, including identifying ultimate Beneficial Owners (BOs) and monitoring Politically Exposed Persons (PEPs).
 * **Threshold Transaction Reporting (TTR):** Requires banks to automatically report any individual or related cash transaction crossing the statutory limit (currently NPR 1 million in a single day) to the FIU within the specified timeline.
 * **Suspicious Transaction Reporting (STR):** Compels banks to file an STR with the FIU within 3 days if they suspect or have reasonable grounds to suspect that funds are derived from criminal activities, regardless of the transaction amount.
 
+[Anti-Money Laundering Law in Nepal | AML Act, Rules & Compliance Guide](https://commonlaw.com.np/publications/anti-money-laundering-law-in-nepal)
+
 ### 2.5 Banking Offence and Punishment Act, 2064
+
+Nepal’s banking sector plays a central role in the country’s economy. As digital banking, loans, financial transactions, and commercial activities continue to expand, banking-related crimes have also increased. To regulate financial misconduct and strengthen confidence in the banking system, Nepal introduced the Banking Offence and Punishment Act 2064.
+
+**What is the Banking Offence and Punishment Act 2064?**
+The Banking Offence and Punishment Act 2064 is a special law enacted by the Government of Nepal to control and punish banking-related crimes.
+
+The primary objectives of the Act include:
+
+1. Preventing banking fraud
+2. Protecting financial institutions
+3. Maintaining public trust in banks
+4. Regulating financial misconduct
+5. Ensuring accountability in banking transactions
+   
+This Act works alongside other financial and criminal laws in Nepal.
+
+**Importance of बैंकिङ कसुर तथा सजाय ऐन २०६४**
+The banking sector depends heavily on trust. If fraud and financial crimes increase without legal control, the entire financial system becomes unstable.
+
+This Act is important because it:
+
+1. Protects depositors and lenders
+2. Discourages fraudulent financial activities
+3.Ensures accountability in transactions
+4. Strengthens banking discipline
+5. Supports economic stability
+
+Without strict banking laws, financial systems become vulnerable to abuse and manipulation.
+
 
 * **Legal Purpose:** To define specific criminal offenses within the banking sector and determine punishments to preserve financial security and public trust.
 * **Defined Offenses:**
@@ -277,18 +375,53 @@ The evolution of banking in Nepal shows a steady transition from basic financial
 * Submitting forged financial audits, inflated property evaluation records, or fake business documents to secure bank credit.
 * Misusing credit facilities by diverting loan funds away from the approved project or purpose.
 * Unauthorized tampering, altering, or hacking into the bank's Core Banking System (CBS) or digital financial logs.
-
-
 * **Penalties:** Mandates the full recovery of the misappropriated amount (*Bighailo*), along with corresponding financial fines and prison sentences scaled to the monetary scale of the offense.
+
+[Banking Offence and Punishment Act](https://commonlaw.com.np/publications/banking-offence-and-punishment-act-nepal)
+
 
 ### 2.6 Foreign Exchange (Regulation) Act, 2019
 
-* **Regulatory Scope:** Empowers NRB to control, regulate, and direct all transactions involving foreign currency, gold, and international cross-border payments.
-* **Licensing Mandate:** Prohibits any person or corporate entity from dealing in foreign exchange or operating remittance services without holding an explicit license from NRB.
-* **Trade Operations:** Governs the issuance and validation of international Letters of Credit (L/C), bank guarantees, and documents used to process import-export trade.
-* **Illicit Remittance (*Hundi*):** Explicitly defines undocumented, parallel informal money transfer mechanisms like *Hundi* as severe criminal offenses subject to cash asset asset seizures and criminal prosecution.
+The Foreign Exchange (Regulation) Act 2019 (1962) is Nepal's principal legislation governing foreign currency, foreign exchange transactions, cross-border payments, capital movement, and foreign investment. Enacted to safeguard Nepal's foreign exchange reserves and maintain the economic interests of the general public, the Act grants extensive regulatory powers to the Government of Nepal and Nepal Rastra Bank (NRB). 
+
+The Foreign Exchange (Regulation) Act 2019 (1962 AD), commonly referred to as FERA, is Nepal's foundational law regulating all foreign exchange-related transactions. The Act was enacted to further regulate foreign exchange transactions in order to maintain the economic interests of the general public. Despite being enacted in 1962, the Act remains highly relevant today due to frequent amendments and NRB directives that adapt to modern financial realities.
+
+The Act has been amended multiple times, with significant amendments in 1987, 2002, and 2010 to address evolving economic conditions and international financial standards.
+
+
+
+**Objectives and Scope**
+The key objectives of the Foreign Exchange (Regulation) Act include:
+
+* Regulating foreign exchange transactions in Nepal
+* Controlling import and export of foreign currency and bullion
+* Preventing illegal capital flight and informal payment systems
+* Ensuring foreign exchange earnings flow through formal banking channels
+* Protecting Nepal's foreign exchange reserves
+* Facilitating legitimate foreign investment and repatriation
+
+**Territorial Application**
+The Act extends throughout Nepal and also applies to:
+
+* All citizens of Nepal who reside outside Nepal
+* All firms, companies, bodies registered in Nepal operating outside Nepal
+* Branches and agencies of such entities operating abroad
+
+**Regulatory Scope:** Empowers NRB to control, regulate, and direct all transactions involving foreign currency, gold, and international cross-border payments.
+
+**Licensing Mandate:** Prohibits any person or corporate entity from dealing in foreign exchange or operating remittance services without holding an explicit license from NRB.
+
+**Trade Operations:** Governs the issuance and validation of international Letters of Credit (L/C), bank guarantees, and documents used to process import-export trade.
+
+**Illicit Remittance (*Hundi*):** Explicitly defines undocumented, parallel informal money transfer mechanisms like *Hundi* as severe criminal offenses subject to cash asset asset seizures and criminal prosecution.
+
+
+[Foreign Exchange (Regulation) Act 2019 in Nepal: Complete Legal Guide](https://courtmarriageinnepal.com.np/publication/foreign-exchange-regulation-act-nepal)
+
 
 ### 2.7 Negotiable Instruments Act, 2034
+
+The Negotiable Instruments Act 2034 (1977) is the primary legislation governing negotiable instruments in Nepal, providing the legal framework for banking transactions involving promissory notes, bills of exchange, cheques, and drafts. The Act defines various types of negotiable instruments, establishes the rights and liabilities of parties involved, and prescribes procedures for negotiation, endorsement, presentment, payment, and remedies in case of dishonour. Understanding this Act is essential for businesses, financial institutions, and individuals engaged in commercial transactions in Nepal.
 
 * **Statutory Scope:** Provides the legal definitions and rules for transferring, commercializing, and discharging negotiable financial documents.
 * **Core Instruments Defined:**
@@ -299,23 +432,54 @@ The evolution of banking in Nepal shows a steady transition from basic financial
 * **Endorsement & Liability:** Outlines legal methods for transferring instruments via endorsement and defines the statutory rights of a "holder in due course."
 * **Dishonor Protocols:** Establishes the process for documenting the dishonor of an instrument due to non-payment or non-acceptance.
 
+
+[Negotiable Instruments Act Nepal: Complete Legal Guide](https://courtmarriageinnepal.com.np/publication/negotiable-instruments-act-nepal)
+
+
 ### 2.8 Electronic Transaction Act (ETA), 2063
 
-* **Legal Recognition:** Grants formal legal validity to electronic data records, digital communications, e-commerce contracts, and electronic signatures.
-* **Digital Signatures:** Establishes that a verified digital signature carries the same legal weight and admissibility as a physical, handwritten signature on paper documents.
-* **Controller of Certifying Authorities (CCA):** Creates the regulatory framework for licensing and auditing Certifying Authorities (CAs) that issue electronic digital certificates.
-* **Cyber Crimes & Penalties:** Outlines punishments for computer-related offenses, including unauthorized system access (hacking), destroying or altering computer source code, and digital identity theft.
+The Electronic Transaction Act 2063 in Nepal (also known as ETA 2063) is a landmark legislation that laid the foundation for digital governance and cyber law in the country. As Nepal entered the digital age, the need for legal recognition of electronic records, secure online transactions, and protection from cybercrime became crucial. This Act was introduced to address those needs and to facilitate the legal and commercial framework of electronic operations.
+
+
+**What is Electronic Transaction Act 2063?**
+The Electronic Transaction Act, 2063 (2008) is Nepal’s first cyber law that governs digital transactions, electronic records, and cyber crime-related offenses. It provides legal recognition to digital signatures and electronic documents, making them as enforceable as paper-based transactions.
+
+This Act plays a crucial role in promoting e-commerce, digital communication, and online service delivery by ensuring that electronic communications are reliable and secure. It also outlines provisions for offenses like hacking, data theft, unauthorized access, and dissemination of harmful content online.
+
+**Objectives of Electronic Transaction Act 2063**
+The ETA 2063 was introduced with several well-defined objectives:
+
+1. Legal Recognition: To provide legal status to electronic records and digital signatures.
+2. Secure E-Transactions: To create a safe and trustworthy environment for electronic commerce and communication.
+3. Cybercrime Control: To prevent and penalize cybercrimes, including unauthorized access, hacking, and fraud.
+4. Promotion of E-Governance: To support digital governance and encourage the use of technology in public service delivery.
+5. Facilitate E-Commerce: To promote online business/company activities through regulation and secure electronic data exchange.
+
+**Legal Recognition:** Grants formal legal validity to electronic data records, digital communications, e-commerce contracts, and electronic signatures.
+
+**Digital Signatures:** Establishes that a verified digital signature carries the same legal weight and admissibility as a physical, handwritten signature on paper documents.
+
+**Controller of Certifying Authorities (CCA):** Creates the regulatory framework for licensing and auditing Certifying Authorities (CAs) that issue electronic digital certificates.
+
+**Cyber Crimes & Penalties:** Outlines punishments for computer-related offenses, including unauthorized system access (hacking), destroying or altering computer source code, and digital identity theft.
+
+
+[Electronic Transaction Act 2063 in Nepal](https://mokshalegalgroup.com/electronic-transaction-act/)
 
 ### 2.9 The Act on Recovery of Debts of Banks and Financial Institutions, 2058
+
+Recovering unpaid debts can be a complex and legally challenging process in Nepal. Whether you are a financial institution dealing with non-performing loans or an individual seeking to recover money from a defaulting borrower, understanding the legal framework is essential. The debt recovery procedure in Nepal involves multiple stages from formal demand notices to court proceedings and enforcement.
 
 * **Judicial Mechanism:** Establishes the **Debt Recovery Tribunal (DRT)** as a specialized, fast-track judicial body to handle non-performing loan recovery cases, bypassing slower civil court procedures.
 * **Debt Recovery Appellate Tribunal:** Provides an administrative pathway for filing appeals against the initial judgments passed by the DRT.
 * **Collateral Liquidation:** Grants licensed commercial banks the legal right to bypass standard court proceedings to directly auction off, lease, or manage pledged physical collateral if a borrower defaults on loan repayments.
 
+
+[Debt Recovery Procedure in Nepal: Complete Legal Guide](https://courtmarriageinnepal.com.np/publication/debt-recovery-procedure-in-nepal)
+
+
 ### 2.10 NRB Unified Directives and Circulars
 
-* **Regulatory Context:** The operational framework issued annually and updated via regular circulars by NRB to govern risk management and operational standards across all licensed commercial banks.
-* **Key Directives Framework:**
 * **Directive 1 (Capital Adequacy):** Enforces Basel III framework standards, requiring Class 'A' banks to maintain a minimum Capital Adequacy Ratio (CAR) of 11% (including Capital Conservation Buffer).
 * **Directive 2 (Loan Classification & Provisioning):** Mandates standard loan tracking categories based on aging criteria:
   * *Pass Loans:* Delinquent for up to 1 month.
@@ -329,60 +493,220 @@ The evolution of banking in Nepal shows a steady transition from basic financial
 
 
 
+
+Nepal Rastra Bank, as the central bank of Nepal, issues **Unified Directives** annually (with periodic updates/circulars) under the authority of the **Nepal Rastra Bank Act, 2052 (Section 79)**. For Class "A" Commercial Banks like RBB, these directives act as the ultimate regulatory framework.
+
+While there are over 20 directives, Level 6 IT aspirants must thoroughly master the following three directives, as they directly govern banking operations, security, and technology risk:
+
+#### Directive No. 3: Single Obligor Limit & Risk Management
+
+This directive focuses on minimizing concentration risk. However, from an IT perspective, the critical element is **Operational Risk Management**.
+
+* **Operational Risk:** The risk of loss resulting from inadequate or failed internal processes, people, and systems, or from external events. This explicitly includes **system failures, hacking, data breaches, and hardware crashes**.
+* **Key Mandate:** Banks must have a robust Business Continuity Plan (BCP) and Disaster Recovery (DR) policy.
+
+#### Directive No. 6: Corporate Governance
+
+This directive outlines the roles, responsibilities, and ethical boundaries for the Board of Directors (BOD) and Management.
+
+* **IT Governance Connection:** The BOD is ultimately responsible for approving the bank's **IT Policy, Information Security Policy, and IT Strategy**.
+* **Audit Committee:** Must ensure that periodic **IT Audits** and **Vulnerability Assessments/Penetration Testing (VAPT)** are conducted and their rectifications are implemented.
+
+#### Directive No. 21: Risk Management Guidelines
+
+This is the most crucial directive for IT candidates. It mandates that banks must establish a comprehensive risk management framework.
+
+* **Information Technology Risk:** Banks must identify, measure, monitor, and control IT-related risks.
+* **Key Requirements:**
+* Appointment of a dedicated **Chief Information Security Officer (CISO)** independent of the IT Operations team.
+* Formulation of an **Information Security Committee**.
+* Implementation of dual-control mechanisms (Maker-Checker) in all financial transactions and critical IT configurations.
+
+
+**Latest NRB Circulars & Emerging Regulatory Trends**
+
+To score high marks, you must reference recent regulatory trends in your answers:
+
+* **Digital KYC & e-KYC:** NRB's push toward digitizing the customer onboarding process securely.
+* **API Policy:** Guidelines on secure API integrations with third-party fintech apps (digital wallets like eSewa, Khalti, etc.).
+* **Real-time Fraud Monitoring:** Mandating banks to install Enterprise Fraud Risk Management (EFRM) systems to detect anomalous transaction patterns instantly.
+* **Data Sovereignty:** Customer financial data must reside within the physical/regulatory boundaries of Nepal unless explicitly permitted by NRB.
+
+
+#### Question 1: What are the key requirements of NRB Guidelines regarding Disaster Recovery (DR) and Business Continuity Planning (BCP) for Class "A" banks in Nepal? (5 Marks)
+
+**Introduction:**
+Disaster Recovery (DR) and Business Continuity Planning (BCP) are regulatory mandates issued by Nepal Rastra Bank (NRB) to ensure that commercial banks can withstand disruptions (natural disasters, cyber-attacks, power failures) without losing critical customer transaction data or halting essential banking services.
+
+**Key NRB Requirements:**
+
+1. **Physical Separation of Sites:**
+* Banks must maintain a primary **Data Center (DC)** and a secondary **Disaster Recovery (DR)** site.
+* The DR site must be located in a different seismic zone/geographic location from the DC to ensure both sites are not affected by the same localized disaster (e.g., if DC is in Kathmandu, DR is preferred to be outside the valley).
+
+
+2. **RTO and RPO Definition:**
+* **Recovery Time Objective (RTO):** The maximum tolerable duration of downtime before a system must be restored.
+* **Recovery Point Objective (RPO):** The maximum tolerable period of data loss measured in time (e.g., losing no more than 15 minutes of transactions). Banks must configure near real-time data replication to achieve minimal RPO.
+
+
+3. **Periodic DR Drills:**
+* NRB mandates that banks must conduct **live DR switching drills** at least once or twice a year to test the readiness of the backup systems and train technical staff.
+
+
+4. **Business Continuity Plan (BCP) Document:**
+* The bank must have a Board-approved BCP policy outlining crisis management teams, emergency contact trees, alternative manual workflows, and communication strategies during a crisis.
+
+
+5. **Backup Policies:**
+* Implementation of structured backup schedules (Daily incremental, Weekly full backups) with copies stored in secure offsite locations.
+
 ---
 
-### 🎯 Practice Questions with Detailed Answers
+#### Question 2: Explain the role of the "Maker-Checker" concept in banking software systems as mandated by NRB Directives. (5 Marks)
 
-#### Part A: Multiple Choice Questions (MCQs)
+**Introduction:**
+The "Maker-Checker" principle (also known as segregation of duties) is a fundamental internal control mechanism mandated by NRB under its Corporate Governance and IT Risk guidelines. It ensures that no single individual has the authorization to initiate and complete a transaction or configuration change alone.
 
-**1. Under the Money Laundering Prevention Act, 2064, within how many days must a licensed commercial bank report a Suspicious Transaction Report (STR) to the Financial Information Unit (FIU) after identification?**
+```
+[ Maker ]  ---> (Initiates Transaction / Config Change)
+    │
+    ▼
+[ Checker ] ---> (Verifies, Authorizes, & Commits)
 
-A) Within 24 hours
+```
 
-B) Within 3 days
+**Key Operational Applications:**
 
-C) Within 7 days
-
-D) Within 15 days
-
-**2. Which specialized judicial authority is established under the Act on Recovery of Debts of Banks and Financial Institutions, 2058, to resolve non-performing asset disputes through accelerated legal tracks?**
-
-A) Special Court for Financial Crimes
-
-B) Debt Recovery Tribunal (DRT)
-
-C) Revenue Tribunal
-
-D) Central Commercial Court
-
-**3. According to the NRB Unified Directives, a commercial loan that has remained past due or delinquent for a period ranging from 3 months to 6 months must be classified under which asset category?**
-
-A) Watchlist
-
-B) Substandard
-
-C) Doubtful
-
-D) Loss
-
-**4. Under the Electronic Transaction Act, 2063, which authority is legally responsible for licensing, regulating, and monitoring the operations of Certifying Authorities issuing digital certificates in Nepal?**
-
-A) Nepal Rastra Bank IT Department
-
-B) Controller of Certifying Authorities (CCA)
-
-C) Ministry of Communication and Information Technology
-
-D) Nepal Telecommunications Authority (NTA)
+* **Financial Transactions:** In the Core Banking System (CBS), a teller (Maker) inputs the details of a high-value withdrawal or loan disbursement, but a manager (Checker) must review and authorize it before the funds are actually moved.
+* **System Administration & IT:** A database administrator (Maker) prepares a critical script or configuration change, but another designated IT authority (Checker) must review and authorize the deployment to production.
+* **Fraud Prevention:** By requiring at least two distinct user credentials for critical tasks, this system prevents internal fraud, collusion, and accidental data entry errors.
+* **Audit Trail:** Every action creates a distinct log capturing *who* initiated (Maker) and *who* approved (Checker) the action, which is vital during IS Audits.
 
 ---
 
-##### 🔑 MCQ Answer Key & Explanations
 
-1. **B — Within 3 days.** The Money Laundering Prevention Act, 2064 dictates that once an entity identifies a transaction as suspicious, it must submit an STR to the FIU within 3 days.
-2. **B — Debt Recovery Tribunal (DRT).** The DRT is a specialized judicial body created under the Act of 2058 to fast-track debt recovery for BFIs.
-3. **B — Substandard.** NRB Directive No. 2 defines non-performing loans past due for 3 to 6 months as Substandard assets.
-4. **B — Controller of Certifying Authorities (CCA).** The CCA is the statutory apex regulator created under the ETA, 2063 to manage digital signature authentication frameworks.
+#### Question 3: As an IT Officer at Rastriya Banijya Bank, how would you design an Information Security Framework that aligns with the NRB Unified Directives and IT Guidelines? Outline the key pillars of your framework. (10 Marks)
+
+
+**Introduction:**
+Designing an Information Security Framework for a premier government bank like Rastriya Banijya Bank (RBB) requires a holistic approach that balances operational efficiency with strict compliance with the Nepal Rastra Bank (NRB) IT Guidelines and Unified Directives.
+
+An effective framework must protect the confidentiality, integrity, and availability (CIA triad) of financial data.
+
+---
+
+### Key Pillars of the RBB Information Security Framework
+
+To satisfy NRB regulations, the framework is structured around five strategic pillars:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│              RBB Information Security Framework             │
+├──────────────┬──────────────┬──────────────┬────────────────┤
+│   Pillar 1   │   Pillar 2   │   Pillar 3   │    Pillar 4    │
+│  Governance  │ Technological│ Operational  │   Compliance   │
+│   & Policy   │   Defenses   │  Controls &  │    & Audits    │
+│              │              │  Monitoring  │                │
+└──────────────┴──────────────┴──────────────┴────────────────┘
+
+```
+
+#### Pillar 1: Governance, Risk, and Policy Alignment
+
+* **Information Security Policy (ISP):** Formulate a comprehensive, Board-approved ISP updated annually to address emerging threats like ransomware and social engineering.
+* **Organizational Structure:** Appoint a dedicated **Chief Information Security Officer (CISO)** reporting directly to the Risk Management Committee (independent of the CIO/IT Operations department) to avoid conflicts of interest.
+* **IT Steering Committee:** Establish a high-level committee comprising executive management and IT heads to align IT initiatives with business goals.
+
+#### Pillar 2: Robust Technological Defenses (Infrastructure Security)
+
+* **Network Segmentation:** Divide the bank's internal network into zones (e.g., DMZ, Internal CBS zone, Swift Network, User endpoints) using firewalls to prevent lateral movement of malware.
+* **Access Control & Identity Management:** Implement the Principle of Least Privilege. Enforce Multi-Factor Authentication (MFA) for all administrative logins and remote access (VPN).
+* **Encryption:** Ensure data is encrypted **at rest** (in databases and backups) and **in transit** (using HTTPS/TLS protocols for mobile and internet banking).
+
+#### Pillar 3: Operational Controls & Continuous Monitoring
+
+* **Security Operations Center (SOC):** Deploy a 24/7 SIEM (Security Information and Event Management) system to monitor, detect, and respond to anomalies and cyber threats in real-time.
+* **Maker-Checker Implementation:** Enforce strict dual-control across all core banking software configurations and financial transactions.
+* **Vulnerability Management:** Conduct regular in-house scans and external Vulnerability Assessment and Penetration Testing (VAPT) on all public-facing applications (Mobile Banking, Websites) before major updates.
+
+#### Pillar 4: Disaster Recovery and Business Continuity
+
+* **Synchronous/Asynchronous Replication:** Ensure real-time data replication between the RBB Primary Data Center and the Disaster Recovery site to maintain a near-zero RPO.
+* **Regular Drills:** Schedule biannual, unannounced DR drills to ensure failover procedures work seamlessly and recovery staff are trained.
+
+#### Pillar 5: Compliance, Training, and Human Risk Mitigation
+
+* **IS Audit Compliance:** Ensure annual independent Information Systems Audits are executed, and proactively resolve any finding categorized as "High Risk."
+* **Security Awareness Training:** Over 70% of banking breaches start with phishing. Regular security training and mock-phishing campaigns must be conducted for all RBB staff, from tellers to board members.
+* **Vendor Management:** Bind third-party vendors with legally enforceable Service Level Agreements (SLAs) and Non-Disclosure Agreements (NDAs), ensuring they comply with NRB's security standards.
+
+**Conclusion:**
+By implementing this multi-layered framework, RBB can comply with NRB Unified Directives, protect public trust as a state-owned financial institution, and defend its digital perimeter against sophisticated modern cyber adversaries.
+
+---
+
+#### Question 4: "Operational risk in Nepalese banking is highly correlated with IT system failures." Evaluate this statement in light of NRB Directives. Suggest measures to mitigate system-related operational risks in a commercial bank. (10 Marks)
+
+
+**Introduction:**
+Operational risk is defined as the risk of direct or indirect loss resulting from inadequate or failed internal processes, people, and systems, or from external events. In the modern digital banking era, where physical ledgers have been completely replaced by Core Banking Systems (CBS), digital wallets, and RTGS, **operational risk and IT system failures are inextricably linked**.
+
+NRB Unified Directives (specifically Directive No. 21 on Risk Management) acknowledge this vulnerability and mandate strict controls to mitigate system-related risks.
+
+---
+
+##### Evaluation: The Correlation Between IT Failures & Operational Risk
+
+System-related failures manifest as operational risk in several high-impact ways:
+
+| Type of IT Failure        | Operational Risk Impact on Banks                                                                                                                |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CBS Downtime**          | Halts branch operations, disrupts mobile banking, causes reputational damage, and triggers regulatory penalties from NRB.                       |
+| **Cyber Security Breach** | Leads to direct financial theft (e.g., SWIFT heist), identity theft, legal liabilities, and massive loss of public trust.                       |
+| **Data Integrity Issues** | Database corruption or synchronization lag between DC and DR sites can lead to incorrect balance displays and erroneous transaction processing. |
+| **Poor Vendor Support**   | Over-reliance on third-party vendors for critical system updates without proper SLAs can lead to unpatched system vulnerabilities.              |
+
+---
+
+##### Mitigating Measures for System-Related Operational Risks
+
+To minimize these risks, a commercial bank must deploy strategic, technical, and operational safeguards:
+
+```
+                          ┌────────────────────────┐
+                          │ IT Risk Mitigation     │
+                          └───────────┬────────────┘
+                                      │
+            ┌─────────────────────────┼─────────────────────────┐
+            ▼                         ▼                         ▼
+   [Technical Defense]      [Operational Control]     [Strategic / Governance]
+   - Redundancy (DC/DR)     - Maker-Checker           - IT Governance (Steering Committee)
+   - Real-time Backups      - Log Management          - Rigorous Vendor SLAs
+   - SIEM / SOC             - Patch Management        - Comprehensive IT Audits
+
+```
+
+###### 1. Strategic and Governance Measures
+
+* **IT Risk Appetite Definition:** The Board of Directors must define acceptable limits for system downtime (RTO) and data loss (RPO).
+* **Comprehensive IT Policies:** Formulate policies that clearly segregate roles between development, operations, and security teams (Separation of Duties).
+
+###### 2. Technical Mitigation Measures
+
+* **Redundancy and High Availability:** Avoid Single Points of Failure (SPOF) by deploying redundant hardware, multi-homed ISP connections, and uninterruptible power supplies (UPS/Generators) at critical hubs.
+* **Rigorous Patch Management:** Ensure all operating systems, databases, and network firmware are updated with the latest security patches to defend against known exploits.
+* **Automated Backup Validation:** Backups should not only be taken regularly but must be periodically restored in a test environment to verify data integrity.
+
+###### 3. Operational and Process Measures
+
+* **Incident Response Plan (IRP):** Establish a clear, step-by-step protocol for when a system failure or cyber incident occurs—defining who coordinates, who fixes, and how customers/regulators are informed.
+* **Change Management Process:** Implement a formal Change Advisory Board (CAB). Every software update or configuration change must be thoroughly tested in a non-production environment (UAT) before deployment.
+* **Log Management and Monitoring:** Maintain immutable system logs. Use automated tools to flag unauthorized system modifications or database queries immediately.
+
+**Conclusion:**
+As Rastriya Banijya Bank continues to scale its digital services, IT systems are no longer just business enablers; they are the business itself. Managing system failures is not merely an IT concern—it is a critical pillar of RBB's overall operational risk management framework as mandated by the central bank.
+
 
 ---
 
@@ -414,11 +738,11 @@ The **Financial Information Unit (FIU-Nepal)** is established under Section 9 of
 
 Under the **Money Laundering Prevention Act, 2064**, both TTR and STR serve as monitoring mechanisms used by commercial banks to counter illicit financial flows, but they differ in their triggers and reporting requirements:
 
-| Metric / Parameter | Threshold Transaction Reporting (TTR) | Suspicious Transaction Reporting (STR) |
-| --- | --- | --- |
-| **Primary Trigger** | Based entirely on **value thresholds**. Triggered automatically by cash transactions hitting or crossing the statutory limit (currently NPR 1 million in a single day). | Based entirely on **behavioral anomalies** and suspicion. Triggered regardless of the transaction amount. |
-| **Nature of Reporting** | **Objective and regular.** Requires no internal investigation; transactions meeting the criteria are compiled and reported routinely. | **Subjective and analytical.** Triggered when a transaction does not align with a customer's known profile, suggesting potential links to criminal activity. |
-| **Reporting Target** | Reported to the Financial Information Unit (FIU). | Investigated internally by the bank's Compliance Officer before being reported to the FIU within 3 days. |
+| Metric / Parameter      | Threshold Transaction Reporting (TTR)                                                                                                                                   | Suspicious Transaction Reporting (STR)                                                                                                                       |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Primary Trigger**     | Based entirely on **value thresholds**. Triggered automatically by cash transactions hitting or crossing the statutory limit (currently NPR 1 million in a single day). | Based entirely on **behavioral anomalies** and suspicion. Triggered regardless of the transaction amount.                                                    |
+| **Nature of Reporting** | **Objective and regular.** Requires no internal investigation; transactions meeting the criteria are compiled and reported routinely.                                   | **Subjective and analytical.** Triggered when a transaction does not align with a customer's known profile, suggesting potential links to criminal activity. |
+| **Reporting Target**    | Reported to the Financial Information Unit (FIU).                                                                                                                       | Investigated internally by the bank's Compliance Officer before being reported to the FIU within 3 days.                                                     |
 
 ---
 
@@ -567,7 +891,6 @@ When writing an answer for any of these acts:
 1. **Introduction:** Start by stating the complete name of the act and its primary purpose (the preamble objective).
 2. **Core Body:** Present the major provisions using clear bold bullet points (like those above).
 3. **Banking Link:** Conclude by highlighting how that specific act helps **Rastriya Banijya Bank (RBB)** maintain corporate governance, protect public deposits, or secure its digital banking platforms against fraud.
-
 
 
 ---
@@ -1203,13 +1526,13 @@ In a competitive banking environment, the quality of service delivery directly d
 
 Customer satisfaction is defined as the gap between a customer's expectations and their actual perception of the delivered service. The **SERVQUAL** model measures this service quality across five core dimensions:
 
-| Dimension | Description | Banking Example |
-| --- | --- | --- |
-| **Tangibles** | Physical infrastructure, equipment, personnel appearance, and digital UI. | Modern branch interiors, reliable ATMs, clean mobile banking app interfaces. |
-| **Reliability** | The ability to perform the promised service dependably and accurately. | Processing fund transfers without errors, system uptimes, accurate ledger balances. |
-| **Responsiveness** | Willingness to help customers and provide prompt, timely service. | Short token queue times, fast card replacements, rapid online passbook loads. |
-| **Assurance** | Employee knowledge, courtesy, and ability to inspire trust and confidence. | Competent loan staff, clear security transparency, and professional communication. |
-| **Empathy** | Providing caring, individualized, and personalized attention to customers. | Assisting senior citizens with digital banking tokens, understanding business cash flows. |
+| Dimension          | Description                                                                | Banking Example                                                                           |
+| ------------------ | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Tangibles**      | Physical infrastructure, equipment, personnel appearance, and digital UI.  | Modern branch interiors, reliable ATMs, clean mobile banking app interfaces.              |
+| **Reliability**    | The ability to perform the promised service dependably and accurately.     | Processing fund transfers without errors, system uptimes, accurate ledger balances.       |
+| **Responsiveness** | Willingness to help customers and provide prompt, timely service.          | Short token queue times, fast card replacements, rapid online passbook loads.             |
+| **Assurance**      | Employee knowledge, courtesy, and ability to inspire trust and confidence. | Competent loan staff, clear security transparency, and professional communication.        |
+| **Empathy**        | Providing caring, individualized, and personalized attention to customers. | Assisting senior citizens with digital banking tokens, understanding business cash flows. |
 
 ---
 
@@ -1300,11 +1623,11 @@ D) Grapevine Communication
 
 Job Description (JD) and Job Specification (JS) are distinct functional blueprints derived directly from a comprehensive **Job Analysis**. Their core differences are structured below:
 
-| Parameter | Job Description (कार्य विवरण) | Job Specification (कार्य योग्यता) |
-| --- | --- | --- |
-| **Focus** | Focuses entirely on the **Job** parameters. | Focuses entirely on the **Human** characteristics. |
-| **Content** | Outlines tasks, primary duties, roles, tools, and reporting relationships. | Outlines education, certifications, technical skills, and experience. |
-| **Question** | *What needs to be performed, where, and how?* | *What traits must the person possess to succeed?* |
+| Parameter    | Job Description (कार्य विवरण)                                                 | Job Specification (कार्य योग्यता)                                          |
+| ------------ | -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Focus**    | Focuses entirely on the **Job** parameters.                                | Focuses entirely on the **Human** characteristics.                    |
+| **Content**  | Outlines tasks, primary duties, roles, tools, and reporting relationships. | Outlines education, certifications, technical skills, and experience. |
+| **Question** | *What needs to be performed, where, and how?*                              | *What traits must the person possess to succeed?*                     |
 
 **Banking Utility:** They are essential tools for human resource management. The **JD** provides clear performance benchmarks and operational boundaries, ensuring employees understand their duties and reducing friction. The **JS** serves as an objective checklist for recruitment and selection, helping the bank hire the right technical and operational talent for specialized roles.
 
