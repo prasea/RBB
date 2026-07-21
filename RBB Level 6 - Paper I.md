@@ -254,6 +254,10 @@ The evolution of banking in Nepal shows a steady transition from basic financial
 
 
 ### 2.2 Bank and Financial Institution Act (BAFIA), 2073
+During the 1990s, the financial sector witnessed rapid expansion, supported by a series of legislative reforms, including the Finance Company Act, 1985, the Company Act, 1964, and the Development Bank Act, 1996. These legal frameworks facilitated the establishment of development banks, finance companies, micro-credit development banks, savings and credit cooperatives, and non-governmental organizations permitted to conduct limited banking transactions. However, the coexistence of multiple laws governing financial institutions made regulation and supervision increasingly complex and challenging. 
+
+In response to these regulatory difficulties, the government consolidated the various banking related laws into a single umbrella legislation, the **Bank and Financial Institution Act (BAFIA)**, 2006, as part of comprehensive financial sector reform. This Act categorized banks and financial institutions into four functional classes: Class A commercial banks, Class B development banks, Class C finance companies, and Class D microfinance institutions, along with provisions for nonclassified entities such as infrastructure development banks
+
 **Bank and Financial Institutions Act, 2073 (BAFIA 2073)** is an umbrella law in Nepal that regulates the establishment, operation, management, and supervision of banks and financial institutions.
 
 **Objectives of BAFIA 2073**
