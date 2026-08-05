@@ -472,12 +472,157 @@ The ETA 2063 was introduced with several well-defined objectives:
 
 ### 2.9 The Act on Recovery of Debts of Banks and Financial Institutions, 2058
 
-Recovering unpaid debts can be a complex and legally challenging process in Nepal. Whether you are a financial institution dealing with non-performing loans or an individual seeking to recover money from a defaulting borrower, understanding the legal framework is essential. The debt recovery procedure in Nepal involves multiple stages from formal demand notices to court proceedings and enforcement.
+Recovering unpaid debts can be a complex and legally challenging process in Nepal. Whether you are a financial institution dealing with non-performing loans or an individual seeking to recover money from a defaulting borrower, understanding the legal framework is essential. 
 
-* **Judicial Mechanism:** Establishes the **Debt Recovery Tribunal (DRT)** as a specialized, fast-track judicial body to handle non-performing loan recovery cases, bypassing slower civil court procedures.
-* **Debt Recovery Appellate Tribunal:** Provides an administrative pathway for filing appeals against the initial judgments passed by the DRT.
-* **Collateral Liquidation:** Grants licensed commercial banks the legal right to bypass standard court proceedings to directly auction off, lease, or manage pledged physical collateral if a borrower defaults on loan repayments.
+In Nepal, when loans taken from banks and financial institutions are not repaid on time, it can severely impact the economic system. Ineffective loan recovery leads to problems in liquidity, profitability, investment risk, and financial stability of banks and financial institutions.
 
+To address such issues, the Government of Nepal introduced the **"Bank and Financial Institution Debt Recovery Act, 2058 (2001 AD)"** with the aim of making loan recovery swift, simple, and effective.
+
+Through this Act, the legal process for debt recovery has been clearly defined, and it provides banks and financial institutions a legal basis to exercise their rights and recover loans from borrowers.
+
+#### 1. Background & Preamble
+
+* **Enactment Date:** Chaitra 20, 2058 B.S. (April 2, 2002 A.D.)
+* **Associated Rules:** Debt Recovery Rules, 2059 (Published in Nepal Gazette on 2059/08/12 B.S.)
+* **Preamble / Objective:** To establish a fast-track judicial mechanism for the prompt recovery of non-performing/overdue debts of Banks and Financial Institutions (BFIs), maintaining financial discipline and protecting public deposits.
+
+---
+
+#### 2. Key Definitions (Section 2)
+
+* **Debt / Loan (ऋण):** Any monetary loan, advance, credit, guarantee, overdraft, or letter of credit granted by a bank or financial institution to a borrower, including accrued interest, penal interest, and fees.
+* **Debtor / Borrower (ऋणी):** A person, firm, company, or corporate body that has taken a loan or guaranteed a loan from a bank/financial institution.
+* **Tribunal (न्यायाधिकरण):** The Debt Recovery Tribunal (DRT) established under Section 3.
+* **Appellate Tribunal (पुनरावेदन न्यायाधिकरण):** The Debt Recovery Appellate Tribunal (DRAT) established under Section 13.
+* **Recovery Officer (ऋण असुली अधिकृत):** An official appointed/designated to execute the orders/decisions of the Tribunal.
+
+---
+
+#### 3. Debt Recovery Tribunal — DRT (ऋण असुली न्यायाधिकरण)
+
+##### **A. Formation & Composition (Section 3)**
+
+The Nepal Government establishes the Debt Recovery Tribunal consisting of **3 members**:
+
+1. **Chairperson / Judicial Member (अध्यक्ष):** A person who is or has been a District Judge or is qualified to become a District Judge.
+2. **Member (Legal) [कानून सदस्य]:** An advocate having at least 7 years of legal practice or a Class II officer in the judicial service.
+3. **Member (Banking) [बैंकिङ्ग सदस्य]:** An expert with at least 7 years of officer-level experience in banking/financial sectors.
+
+##### **B. Tenure & Qualifications**
+
+* **Tenure:** 5 years (eligible for re-appointment).
+* **Removal:** Members can be removed by the Nepal Government on grounds of physical/mental incapacity, misconduct, or failure to fulfill official duties (after giving reasonable opportunity for defense).
+
+---
+
+#### 4. Debt Recovery Appellate Tribunal — DRAT (ऋण असुली पुनरावेदन न्यायाधिकरण)
+
+* **Composition:** Single-member tribunal consisting of a **Presiding Officer (अध्यक्ष)**.
+* **Qualification:** A person who is or has been a High Court (Appellate Court) Judge, or qualified to become a High Court Judge.
+* **Tenure:** 5 years.
+* **Function:** Hears appeals against decisions/orders passed by the Debt Recovery Tribunal (DRT).
+
+---
+
+#### 5. Pre-conditions for Filing a Case (Rule 3 & Section 14)
+
+Before a bank/financial institution can file a petition in the Tribunal, it must complete the following preliminary procedures:
+
+1. **Threshold Limit:** The minimum debt claim amount must be at least **NPR 500,000 (5 Lakhs)**.
+2. **Prior Recovery Efforts:** The bank must have engaged in discussions, sent written notices, or attempted loan restructuring/rescheduling.
+3. **Public Notice & Auction Attempt:** The bank must have published a public notice in a national daily newspaper calling for repayment or initiating the auction of pledged collateral, which subsequently failed or remained incomplete.
+4. **Filing Fee Structure:**
+* Basic petition fee: **NPR 5**
+* Advance Debt Recovery Fee: **0.25% of the total claimed debt amount**.
+
+
+
+---
+
+#### 6. Judicial & Recovery Procedures (कारबाही तथा किनारा)
+
+```
+[Bank Files Petition with 0.25% Fee] 
+        │
+        ▼
+[Tribunal Issues Summons (15 Days)] 
+        │
+        ▼
+[Debtor Files Defense Statement (Max +15 Days Extension)]
+        │
+        ▼
+[Evidence Examination & Hearing]
+        │
+        ▼
+[Final Decision by Tribunal (Target: Within 90 Days)]
+
+```
+
+##### **A. Summons and Defense (म्याद थाम्ने तथा प्रतिउत्तर)**
+
+* After registering the petition, summons are issued to the debtor to submit a defense statement within **15 days**.
+* If a genuine reason is submitted, the Tribunal may grant a maximum extension of **15 additional days**.
+
+##### **B. Time Limit for Decision (Section 18)**
+
+* The Tribunal is required to dispose of the case within **90 days** from the date of completion of pleadings/defense submission.
+
+---
+
+#### 7. Execution of Orders & Role of Recovery Officer (ऋण असुली अधिकृत)
+
+**Functions duties and powers of Debt Recovery Officer :**
+1. If, upon receipt of the Tribunal order, the Debt Recovery Officer finds that the property furnished as  security by the borrower or the guarantor cannot satisfy the principal and interest of the debt, and the debt has to be recovered also from other movable and immovable property of its borrower or the guarantor, he/she has to immediately
+write to the concerned office to withhold such movable and immovable property.
+
+2. Upon receipt of the tribunal order, the Debt Recovery Officer has to get the debt recovered as follows, subject to the time limit specified in that order.
+ 
+a. To give an order to the borrower to repay in full the principal and interest of the debt repayable by him/her to the bank or financial institution by giving a time limit of Seven days in maximum ,
+
+b. If the borrower does not repay the principal and interest of such debt within the time limit referred to in Clause (a), to take into possession of movable and immovable property whether or not subject to security finished by the borrower.
+
+c. If the movable and immovable property subject to security furnished by the borrower does not satisfy the principal and interest of the debt and someone has furnished guarantee, to take into possession of the movable and immovable property belonging to such guarantor,
+
+d. To auction the movable and immovable properties taken into possession pursuant to Clause (b) or (c).
+
+
+**Procedure Relating to debt recovery:**
+
+(1) In cases where the movable and immovable property furnished as security by the borrower or as guarantee by the
+guarantor is being possessed and enjoyed by him/her , and possession of such movable and immovable property has to be detached from him/her, the Debt Recovery Officer has to enter the place where such property is located in presence of at least two local people and representative of the concerned bank or financial institution, and in so taking possession an inventory of the movable and immovable properties so possessed has to be prepared and a deed has to be executed to that effected.
+
+(2) If the property taken into possession does not satisfy the principal and interest of the debt and other movable and immovable property of the borrower has to be detached from his/her possession, the Debt Recovery Officer has to
+enter the place where such property is located, in presence of at least two local people and representative of the concerned bank or financial institution and take the property in his/her possession, and in so taking possession, an inventory of the movable and immovable property so possessed has to be prepared and a deed has
+to be executed to that effect.
+
+---
+
+#### 8. Appeal Provision (पुनरावेदन सम्बन्धी व्यवस्था)
+
+* **Timeframe:** An appeal against the order of the DRT must be filed before the **Appellate Tribunal (DRAT)** within **35 days** from the date of order/decision.
+* **Pre-Deposit Condition:** To file an appeal, the debtor must deposit at least **50% of the total debt amount determined by the Tribunal** (or as specified by the Appellate Tribunal rules).
+
+---
+
+#### 📋 Core Summary Table for Quick Revision
+
+| Feature | Debt Recovery Tribunal (DRT) | Debt Recovery Appellate Tribunal (DRAT) |
+| --- | --- | --- |
+| **Bench Strength** | 3 Members (Judicial, Legal, Banking) | 1 Member (Presiding Officer) |
+| **Qualification (Chair)** | District Judge qualification | High Court Judge qualification |
+| **Tenure** | 5 Years | 5 Years |
+| **Min. Claim Eligibility** | NPR 5 Lakhs (500,000) and above | Appeal from DRT decisions |
+| **Case Disposal Target** | Within 90 Days | Within 90 Days |
+| **Appeal Window** | — | 35 Days from DRT Decision |
+
+---
+
+1. **Short Answer (5 Marks):**
+> *What are the main objectives of the Act on Recovery of Debts of Banks and Financial Institutions, 2058? Mention the composition of the Debt Recovery Tribunal (DRT).*
+
+
+2. **Long Answer (10 Marks):**
+> *Explain the process and preconditions for recovering overdue bank loans through the Debt Recovery Tribunal according to the Act on Recovery of Debts of BFIs, 2058 and Rules, 2059. What powers does the Debt Recovery Officer hold?*
 
 [Debt Recovery Procedure in Nepal: Complete Legal Guide](https://courtmarriageinnepal.com.np/publication/debt-recovery-procedure-in-nepal)
 
