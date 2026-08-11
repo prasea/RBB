@@ -1,6 +1,26 @@
+1. Provisions Relating to Minimum Capital Fund
+2. Provisions Relating to Loan Disbursement, Classification, and Loan Loss Provisioning
+3. Provisions Relating to Single Obligor Limits and Sectoral Credit Exposure
+4. Arrangements Relating to Accounting Policies and Formats of Financial Statements
+5. Arrangements Relating to Risk Management
+6. Arrangements Relating to Corporate Governance
+7. Provisions Relating to Implementation Schedule of Supervisory Directives
+8. Provisions Relating to Investments and Subsidiary Companies
+9. Provisions Relating to Data and Financial Statements Submission
+10. Provisions Relating to Transfer, Sale, or Ownership Change of Promoter Shares
+11. Provisions Relating to Consortium Financing
+12. Provisions Relating to Credit Information and Blacklisting
+13. Provisions Relating to Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)
+14. Provisions Relating to Opening Branches and Offices
+15. Provisions Regarding Interest Rates
+16. Provisions Regarding Financial Resource Mobilization
+17. Provisions Regarding Deprived Sector and Target Sector Lending
+18. Provisions Regarding Upgradation, Scope Expansion/Contraction, and Mergers & Acquisitions
+19. Provisions Regarding Anti-Money Laundering and Combating the Financing of Terrorism (AML/CFT)
+20. Provisions Regarding Financial Customer Protection and Financial Literacy
 
 
-# 1. Provisions Relating to Minimum Capital Fund
+# 1.Provisions Relating to Minimum Capital Fund
 
 In exercise of the powers conferred by Section 79 of the Nepal Rastra Bank Act, 2058, the following directives have been issued regarding the minimum capital fund to be maintained by Class "A", "B", and "C" licensed institutions.
 
@@ -1549,7 +1569,7 @@ Here is the complete, faithful translation of the provided text into natural and
 
 ---
 
-# 11. Directive No. 11/082: Provisions Relating to Consortium Financing
+# 11. Provisions Relating to Consortium Financing
 
 In order to make loans disbursed under **Consortium Financing** by Class "A", "B", and "C" licensed institutions systematic and effective, Nepal Rastra Bank, exercising the powers conferred by Section 79 of the Nepal Rastra Bank Act, 2058, has issued the following directives:
 
@@ -1788,7 +1808,7 @@ The Lead Institution must mandatorily submit quarterly consortium details (for p
 
 ---
 
-# 12. Directive No. 12/082: Provisions Relating to Credit Information and Blacklisting
+# 12. Provisions Relating to Credit Information and Blacklisting
 
 To make credit analysis effective across Class "A", "B", and "C" licensed institutions, and to regulate and streamline the credit information system and blacklisting procedures for banking purposes, Nepal Rastra Bank has issued this directive pursuant to Section 79 of the NRB Act 2058, Regulation 7 of the NRB Credit Information Regulations 2059, and for the purposes of Section 88 of the NRB Act 2058.
 
@@ -2002,7 +2022,7 @@ Institutions may recommend through NRB that the Government of Nepal withhold or 
 
 ---
 
-# 13. Directive No. 13/082: Provisions Relating to Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)
+# 13. Provisions Relating to Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)
 
 Exercising powers under Section 79 of the NRB Act 2058, Nepal Rastra Bank issues the following directives regarding CRR and liquid asset maintenance for Class "A", "B", and "C" licensed institutions:
 
@@ -2067,7 +2087,7 @@ Effective from end-Poush 2079, institutions must maintain SLR against total dome
 
 ---
 
-# 14. Directive No. 14/082: Provisions Relating to Opening Branches and Offices
+# 14. Provisions Relating to Opening Branches and Offices
 
 Exercising powers under Section 79 of the NRB Act 2058, Nepal Rastra Bank issues the following directives regarding branch operations:
 
@@ -2119,7 +2139,7 @@ Exercising powers under Section 79 of the NRB Act 2058, Nepal Rastra Bank issues
 
 
 
-# 15. **Provisions Regarding Interest Rates**
+# 15. Provisions Regarding Interest Rates
 
 In exercise of the powers conferred by Section 79 of the Nepal Rastra Bank Act, 2001, the following directives are issued regarding interest rates provided on deposits and collected on loans and advances by Class "A", "B", and "C" licensed institutions.
 
@@ -2323,7 +2343,7 @@ $$\text{Loan Interest Rate} = \text{Base Rate} + 2\text{\% Points}$$
 
 
 
-# 16. **Provisions Regarding Financial Resource Mobilization**
+# 16. Provisions Regarding Financial Resource Mobilization
 
 In exercise of the powers conferred by Section 79 of the Nepal Rastra Bank Act, 2001, the following directives are issued regarding financial resource collection by Class "A", "B", and "C" licensed institutions.
 
@@ -2469,7 +2489,7 @@ If resource mobilization limits or borrowing limits are breached, daily fines eq
 
 
 
-# 17 **Provisions Regarding Deprived Sector and Target Sector Lending**
+# 17 Provisions Regarding Deprived Sector and Target Sector Lending
 
 In exercise of the powers conferred by Section 79 of the Nepal Rastra Bank Act, 2001, Class "A", "B", and "C" licensed institutions are directed to deploy loans to deprived sectors and specified productive sectors as follows:
 
@@ -2537,7 +2557,7 @@ Institutions failing to meet deprived sector or targeted sector lending targets 
 
 ---
 
-# 18. **Provisions Regarding Upgradation, Scope Expansion/Contraction, and Mergers & Acquisitions**
+# 18. Provisions Regarding Upgradation, Scope Expansion/Contraction, and Mergers & Acquisitions
 
 Issued under Section 79 of the NRB Act, 2001 for Class "A", "B", and "C" institutions seeking institutional upgradation, scope adjustments, or mergers and acquisitions.
 
@@ -2618,7 +2638,7 @@ Here is the natural, fluent English translation of the provided text, formatted 
 ---
 
 
-# 19. **Provisions Regarding Anti-Money Laundering and Combating the Financing of Terrorism (AML/CFT)**
+# 19. Provisions Regarding Anti-Money Laundering and Combating the Financing of Terrorism (AML/CFT)
 
 Since it is deemed necessary to make additional provisions regarding the prevention of financial crimes related to money laundering, terrorism financing, and predicate offenses by banks and financial institutions licensed by this Bank, beyond the provisions specified in the Prevention of Money Laundering Act, 2007 (hereinafter referred to as the "Act") and the Prevention of Money Laundering Rules, 2024 (hereinafter referred to as the "Rules"), this directive has been issued in exercise of the powers conferred by Section 7T of the Act and Section 79 of the Nepal Rastra Bank Act, 2001. Unless required by the subject or context, the provisions already contained in the Act and Rules are not repeated in this directive.
 
@@ -3197,7 +3217,7 @@ NRB Directive No. 19/081 and related circulars issued up to January 16, 2026, ar
 
 
 
-# 20. **Provisions Regarding Financial Customer Protection and Financial Literacy**
+# 20. Provisions Regarding Financial Customer Protection and Financial Literacy
 
 In exercise of the powers conferred by Section 79 of the Nepal Rastra Bank Act, 2001, the following directives are issued to Class "A", "B", and "C" licensed institutions to inform the public about services provided, ensure transparent fee structures, and enhance financial literacy through BFIs:
 
