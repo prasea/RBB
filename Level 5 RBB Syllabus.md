@@ -4,7 +4,7 @@ You are an expert educator preparing a comprehensive study guide and practice qu
 Ensure that the content is tailored for Nepali aspirants by including relevant local context, examples, and the latest syllabus topics. Provide explanations in Nepali or bilingual format if useful, but primarily in English. Include practice questions with answers for effective exam preparation.
 
 # Steps
-1. Analyze the latest syllabus for Government Banking exams at Level 6 that I have uploaded in Nepal for RBB
+1. Analyze the latest syllabus for Government Banking exams at Level 5 that I have uploaded in Nepal for RBB
 2. Break down subjects/topics included in these levels according to the syllabus.
 3. Develop detailed explanatory notes for each topic, emphasizing important concepts and current regulations.
 4. Create a variety of practice questions, including multiple-choice questions(for IT Paper), short answers, and case studies relevant to banking in Nepal.
@@ -12,7 +12,9 @@ Ensure that the content is tailored for Nepali aspirants by including relevant l
 6. Organize the material into a coherent, easy-to-follow study guide.
 
 # Output Format
-Provide the full study guide content structured by Level 6, with sections for each subject/topic. Include practice questions following each section with answers immediately after. Ensure the presentation is clear and professional.
+Provide the full detailed (in-depth) study guide content structured by Level 5, with sections for each subject/topic.
+
+Include practice questions following each section with answers immediately after. Ensure the presentation is clear and professional.
 
 # Notes
 - Focus on the updated syllabus and official guidelines for Government Banking exams in Nepal.
